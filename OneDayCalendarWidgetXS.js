@@ -85,7 +85,7 @@ const WIDGET_CONFIGURATIONS = {
 	// An empty array means all calendars.
 	// Calendar names can be found in the "Calendar" App. 
 	// The name must be an exact string match.
-	calendars: ['Yuri (Privat)','EXWE (Alle)', 'EXWE (Yuri)'],
+	calendars: [],
 				
 	showDayevents: false,
 
