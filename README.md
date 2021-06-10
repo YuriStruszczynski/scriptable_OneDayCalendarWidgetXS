@@ -1,5 +1,7 @@
 # OneDayCalendarWidgetXS - Small iOS Widget
 
+![OneDayCalendarWidgetXS](/images/OneDayCalendarWidgetXS.png)
+
 Main code provided by yaylinda and her MultiDayCalendarWidget
 https://github.com/yaylinda/scriptable
 
